@@ -1,4 +1,4 @@
-import{dl as f,df as a,dg as d,de as u}from"./SwapPage-BucQIrnD.js";import"./index-CicLMz4W.js";const w=f`
+import{dl as f,df as a,dg as d,de as u}from"./SwapPage-BOK-7DRw.js";import"./index-B_o08TsA.js";const w=f`
   :host > wui-flex:first-child {
     height: 500px;
     overflow-y: auto;

@@ -1,4 +1,4 @@
-import{da as I,dd as W,dR as l,de as O,df as _,dE as S,dZ as h,e4 as T,dp as f,dC as F,dg as c,e5 as D,dy as C,e6 as N,dA as j,e7 as R,dQ as $,dw as d,dr as P,e8 as M,dt as u,e9 as U,dq as v,ea as q,e2 as A,dP as x,e1 as z}from"./SwapPage-BucQIrnD.js";import"./index-CicLMz4W.js";const B=I`
+import{da as I,dd as W,dR as l,de as O,df as _,dE as S,dZ as h,e4 as T,dp as f,dC as F,dg as c,e5 as D,dy as C,e6 as N,dA as j,e7 as R,dQ as $,dw as d,dr as P,e8 as M,dt as u,e9 as U,dq as v,ea as q,e2 as A,dP as x,e1 as z}from"./SwapPage-BOK-7DRw.js";import"./index-B_o08TsA.js";const B=I`
   :host {
     margin-top: ${({spacing:t})=>t[1]};
   }
